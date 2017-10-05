@@ -9,14 +9,13 @@ from datetime import datetime as dt
 client = discord.Client()
 
 # secret token
-# token = 'MzMwMjE1NTgyNTU5NjMzNDA4.DLXDIQ.Si0YVqcY5KYJHMGOHDWNx5Vsjhk'
-token = 'MzY0OTM0ODQ4ODY5MTcxMjAw.DLhH3Q.vo2hP2K9ee32FL_1327zvCM1vVs'
+token = 'your_token'
 # app_id from discord developer's app creation section
-app_id = '8KHGJP-YY7AKKGGWU'
+app_id = 'your_app_id'
 # channel_id for Nocturne-testing
-channel_id_primary = '343973348658774016'
+channel_id_primary = 'your_channel_id'
 # channel_id for James' server
-channel_id = '279350547260112896'
+channel_id = 'second_channel_id'
 rss_url = 'https://fbis251.github.io/overwatch_news_feed/pc.atom'
 
 # help message to display
