@@ -1,7 +1,7 @@
 # OverWatch Updates Discord Bot
 This bot utilizes an rss feed that is updated when OverWatch patch notes are released. It checks once an hour for an update to the rss feed, and if found will send a message to the channel_ids used. It can be modified to use many other RSS feeds. The RSS feed is intepreted using feedparser, then the html summary inside is eventually converted to MarkDown (a format Discord naturally accepts)
 ```
-Note: testing_rss.py is the bot file, it should be named more correctly in the future.
+Note: discord_rss.py is the bot file you should execute
 ```
 ### Usage (in Discord)
 * !help
