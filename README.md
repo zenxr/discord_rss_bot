@@ -3,6 +3,11 @@ This bot utilizes an rss feed that is updated when OverWatch patch notes are rel
 ```
 Note: testing_rss.py is the bot file, it should be named more correctly in the future.
 ```
+### Usage (in Discord)
+* !help
+* !patch notes
+* !clean patch notes
+
 ### Getting Started
 * Python3 (3.5 used)
 * feedparser (install using pip or other method)
